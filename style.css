@@ -1,0 +1,35 @@
+body {
+    background-color:beige;
+}
+.tu {
+    color:#dc143c;
+}
+.round-image {
+width:200px;
+height:200px;
+border-radius:50%
+}
+.hello {
+color: crimson;
+margin-bottom: 0.2%;
+}
+.name {
+    margin-top: 0.5%;
+    margin-bottom: 0.2%;
+}
+.about {
+    margin-top: 0.5%;
+}
+.git-image {
+    width: 50px;
+    margin-left: 0.5%;
+}
+.linkedin-image {
+    width: 50px;
+    margin-right: 0.2%;
+    margin-left: 0.5%;
+}
+.mail-image {
+    width:50px;
+    margin-right: 0.2%;
+}
