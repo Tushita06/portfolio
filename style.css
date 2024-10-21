@@ -1,7 +1,9 @@
+
 body {
     background-color:bisque;
 }
 h1 {
+    text-align: center;
     margin-left: 3%;
     margin-top: 5%;
 }
@@ -68,6 +70,7 @@ margin-left: 3%;
 pre {
     margin-top: 4%;
     text-align: center;
+    font-style: oblique;
     font-size: 20px;
 }
 .my {
@@ -91,4 +94,21 @@ p {
     text-align: left;
     margin-left: 40%;
     font-size: 20px;
+}
+.projects {
+    text-align: left;
+    margin-left: 30%;
+    font-size: 20px;
+}
+.contact input, .contact textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.contact p {
+    margin: 10px 0;
 }
